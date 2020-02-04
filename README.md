@@ -14,7 +14,7 @@ Pour cette troisième édition, nous reprenons les mêmes principes que lors de 
 
 - Elle se déroulera sur une journée complète le **jeudi 7 mai** dans les locaux de Palo IT (1 Rue Saint-Julien, 44000 Nantes).
 
-- Elle est **gratuite et limitée à 25 participants**. L'inscription est obligatoire et se fera via [Eventbrite](https://www.eventbrite.fr/e/billets-hello-world-3-91133939065).
+- Elle est **gratuite et limitée à 30 participants**. L'inscription est obligatoire et se fera via [Eventbrite](https://www.eventbrite.fr/e/billets-hello-world-3-91133939065).
 
 - Toutes les personnes peuvent proposer un atelier en soumettant une issue sur ce dépôt GitHub. Le programme se constituera en fonction des propositions et des votes pour les propositions.
 
